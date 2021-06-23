@@ -1,0 +1,2 @@
+# Face_Anonymization
+使用生成对抗网络对人脸身份信息进行去隐私编辑
